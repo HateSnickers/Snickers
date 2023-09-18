@@ -1,0 +1,7 @@
+D:\data\github\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.exe.config
+D:\data\github\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.exe
+D:\data\github\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.pdb
+D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.exe
+D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.pdb
