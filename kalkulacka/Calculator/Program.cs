@@ -34,7 +34,12 @@ namespace Calculator
 
         public static void DecimalMode() //*převod z binární na decimální
         {
-            Console.WriteLine("Decimal mode ještě není zhotoven.");
+            Console.WriteLine("Zadejte číslo");
+            int num = Convert.ToInt32(Console.ReadLine());
+            string decimalResult = Convert.ToString(num, 10);
+            Console.WriteLine("Decimal Result: " + decimalResult);
+            Console.ReadKey();
+            Console.Clear();
         }
 
         public static void BinaryMode() //* převod z decimální na binární

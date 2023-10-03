@@ -12,3 +12,10 @@ U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.AssemblyRefere
 U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.exe
 U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.pdb
+D:\data\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.exe.config
+D:\data\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.exe
+D:\data\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.pdb
+D:\data\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\data\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\data\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.exe
+D:\data\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.pdb
