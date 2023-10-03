@@ -5,3 +5,10 @@ D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.Assemb
 D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.exe
 D:\data\github\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.pdb
+U:\PRG\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.exe.config
+U:\PRG\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.exe
+U:\PRG\Snickers\kalkulacka\Calculator\bin\Debug\Calculator.pdb
+U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.exe
+U:\PRG\Snickers\kalkulacka\Calculator\obj\Debug\Calculator.pdb
