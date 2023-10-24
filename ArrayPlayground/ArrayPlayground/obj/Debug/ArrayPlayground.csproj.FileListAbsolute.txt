@@ -1,0 +1,7 @@
+U:\PRG\Snickers\ArrayPlayground\ArrayPlayground\bin\Debug\ArrayPlayground.exe.config
+U:\PRG\Snickers\ArrayPlayground\ArrayPlayground\bin\Debug\ArrayPlayground.exe
+U:\PRG\Snickers\ArrayPlayground\ArrayPlayground\bin\Debug\ArrayPlayground.pdb
+U:\PRG\Snickers\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.csproj.AssemblyReference.cache
+U:\PRG\Snickers\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.exe
+U:\PRG\Snickers\ArrayPlayground\ArrayPlayground\obj\Debug\ArrayPlayground.pdb
