@@ -5,3 +5,10 @@ U:\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playg
 U:\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.csproj.CoreCompileInputs.cache
 U:\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.exe
 U:\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.pdb
+H:\4D\Cervenyt\PRG\Snickers\2D Array Playground\2D Array Playground\bin\Debug\2D Array Playground.exe.config
+H:\4D\Cervenyt\PRG\Snickers\2D Array Playground\2D Array Playground\bin\Debug\2D Array Playground.exe
+H:\4D\Cervenyt\PRG\Snickers\2D Array Playground\2D Array Playground\bin\Debug\2D Array Playground.pdb
+H:\4D\Cervenyt\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.csproj.AssemblyReference.cache
+H:\4D\Cervenyt\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.csproj.CoreCompileInputs.cache
+H:\4D\Cervenyt\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.exe
+H:\4D\Cervenyt\PRG\Snickers\2D Array Playground\2D Array Playground\obj\Debug\2D Array Playground.pdb
