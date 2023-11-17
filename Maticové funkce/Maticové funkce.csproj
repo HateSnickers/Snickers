@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{104B0A50-CFFE-444D-8DA9-FB533B802B5A}</ProjectGuid>
+    <ProjectGuid>{02BA7081-8251-4139-953E-DAF18A4501B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Calculator</RootNamespace>
-    <AssemblyName>Calculator</AssemblyName>
+    <RootNamespace>Maticové_funkce</RootNamespace>
+    <AssemblyName>Maticové funkce</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
