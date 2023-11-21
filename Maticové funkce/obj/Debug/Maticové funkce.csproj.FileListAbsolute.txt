@@ -12,3 +12,10 @@ D:\DProgramovani\Git\skola\Maticové funkce\obj\Debug\Maticové funkce.csproj.As
 D:\DProgramovani\Git\skola\Maticové funkce\obj\Debug\Maticové funkce.csproj.CoreCompileInputs.cache
 D:\DProgramovani\Git\skola\Maticové funkce\obj\Debug\Maticové funkce.exe
 D:\DProgramovani\Git\skola\Maticové funkce\obj\Debug\Maticové funkce.pdb
+D:\DProgramovani\Snickers\Maticové funkce\bin\Debug\Maticové funkce.exe.config
+D:\DProgramovani\Snickers\Maticové funkce\bin\Debug\Maticové funkce.exe
+D:\DProgramovani\Snickers\Maticové funkce\bin\Debug\Maticové funkce.pdb
+D:\DProgramovani\Snickers\Maticové funkce\obj\Debug\Maticové funkce.csproj.AssemblyReference.cache
+D:\DProgramovani\Snickers\Maticové funkce\obj\Debug\Maticové funkce.csproj.CoreCompileInputs.cache
+D:\DProgramovani\Snickers\Maticové funkce\obj\Debug\Maticové funkce.exe
+D:\DProgramovani\Snickers\Maticové funkce\obj\Debug\Maticové funkce.pdb
