@@ -1,0 +1,7 @@
+U:\PRG\Snickers\faktorial\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.csproj.AssemblyReference.cache
+U:\PRG\Snickers\faktorial\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\faktorial\RecursionPlayground\RecursionPlayground\bin\Debug\RecursionPlayground.exe.config
+U:\PRG\Snickers\faktorial\RecursionPlayground\RecursionPlayground\bin\Debug\RecursionPlayground.exe
+U:\PRG\Snickers\faktorial\RecursionPlayground\RecursionPlayground\bin\Debug\RecursionPlayground.pdb
+U:\PRG\Snickers\faktorial\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.exe
+U:\PRG\Snickers\faktorial\RecursionPlayground\RecursionPlayground\obj\Debug\RecursionPlayground.pdb

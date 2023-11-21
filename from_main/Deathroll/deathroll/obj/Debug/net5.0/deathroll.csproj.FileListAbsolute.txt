@@ -1,0 +1,16 @@
+D:\data\github\Snickers\Deathroll\deathroll\bin\Debug\net5.0\deathroll.exe
+D:\data\github\Snickers\Deathroll\deathroll\bin\Debug\net5.0\deathroll.deps.json
+D:\data\github\Snickers\Deathroll\deathroll\bin\Debug\net5.0\deathroll.runtimeconfig.json
+D:\data\github\Snickers\Deathroll\deathroll\bin\Debug\net5.0\deathroll.runtimeconfig.dev.json
+D:\data\github\Snickers\Deathroll\deathroll\bin\Debug\net5.0\deathroll.dll
+D:\data\github\Snickers\Deathroll\deathroll\bin\Debug\net5.0\ref\deathroll.dll
+D:\data\github\Snickers\Deathroll\deathroll\bin\Debug\net5.0\deathroll.pdb
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.csproj.AssemblyReference.cache
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.AssemblyInfoInputs.cache
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.AssemblyInfo.cs
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.csproj.CoreCompileInputs.cache
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.dll
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\ref\deathroll.dll
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.pdb
+D:\data\github\Snickers\Deathroll\deathroll\obj\Debug\net5.0\deathroll.genruntimeconfig.cache

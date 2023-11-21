@@ -1,0 +1,7 @@
+U:\PRG\Snickers\herní automat\automat\automat\bin\Debug\automat.exe.config
+U:\PRG\Snickers\herní automat\automat\automat\bin\Debug\automat.exe
+U:\PRG\Snickers\herní automat\automat\automat\bin\Debug\automat.pdb
+U:\PRG\Snickers\herní automat\automat\automat\obj\Debug\automat.csproj.AssemblyReference.cache
+U:\PRG\Snickers\herní automat\automat\automat\obj\Debug\automat.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\herní automat\automat\automat\obj\Debug\automat.exe
+U:\PRG\Snickers\herní automat\automat\automat\obj\Debug\automat.pdb

@@ -1,0 +1,7 @@
+U:\PRG\Snickers\SearchPlayground\SearchPlayground\bin\Debug\SearchPlayground.exe.config
+U:\PRG\Snickers\SearchPlayground\SearchPlayground\bin\Debug\SearchPlayground.exe
+U:\PRG\Snickers\SearchPlayground\SearchPlayground\bin\Debug\SearchPlayground.pdb
+U:\PRG\Snickers\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.csproj.AssemblyReference.cache
+U:\PRG\Snickers\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.exe
+U:\PRG\Snickers\SearchPlayground\SearchPlayground\obj\Debug\SearchPlayground.pdb
