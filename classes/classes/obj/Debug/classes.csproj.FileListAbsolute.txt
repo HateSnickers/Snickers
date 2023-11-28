@@ -1,0 +1,7 @@
+U:\PRG\Snickers\classes\classes\bin\Debug\classes.exe.config
+U:\PRG\Snickers\classes\classes\bin\Debug\classes.exe
+U:\PRG\Snickers\classes\classes\bin\Debug\classes.pdb
+U:\PRG\Snickers\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+U:\PRG\Snickers\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\classes\classes\obj\Debug\classes.exe
+U:\PRG\Snickers\classes\classes\obj\Debug\classes.pdb

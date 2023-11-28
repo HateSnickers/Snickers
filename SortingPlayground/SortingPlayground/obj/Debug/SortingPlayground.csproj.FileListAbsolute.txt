@@ -1,0 +1,14 @@
+U:\PRG_materialy\yeenya\Oktavy\11 - 14.11.2023\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.exe.config
+U:\PRG_materialy\yeenya\Oktavy\11 - 14.11.2023\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.exe
+U:\PRG_materialy\yeenya\Oktavy\11 - 14.11.2023\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.pdb
+U:\PRG_materialy\yeenya\Oktavy\11 - 14.11.2023\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.csproj.AssemblyReference.cache
+U:\PRG_materialy\yeenya\Oktavy\11 - 14.11.2023\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.csproj.CoreCompileInputs.cache
+U:\PRG_materialy\yeenya\Oktavy\11 - 14.11.2023\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.exe
+U:\PRG_materialy\yeenya\Oktavy\11 - 14.11.2023\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.pdb
+U:\PRG\Snickers\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.exe.config
+U:\PRG\Snickers\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.exe
+U:\PRG\Snickers\SortingPlayground\SortingPlayground\bin\Debug\SortingPlayground.pdb
+U:\PRG\Snickers\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.csproj.AssemblyReference.cache
+U:\PRG\Snickers\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.exe
+U:\PRG\Snickers\SortingPlayground\SortingPlayground\obj\Debug\SortingPlayground.pdb
