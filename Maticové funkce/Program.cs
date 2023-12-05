@@ -16,7 +16,8 @@ namespace Maticové_funkce
             int b = Convert.ToInt32(Console.ReadLine());
             Console.Write("\n");
 
-            int[,] my2Darray = new int[a, b]; 
+            int[,] my2Darray = new int[a, b];
+            int[,] my2Darray2 = new int[a, b];
             Console.Write("\n");
 
             int numberToAdd = 1;
@@ -25,6 +26,7 @@ namespace Maticové_funkce
                 for (int j = 0; j < my2Darray.GetLength(1); j++)
                 {
                     my2Darray[i, j] = numberToAdd;
+                    my2Darray2[i, j] = numberToAdd;
                     numberToAdd++;
                     Console.Write(my2Darray[i, j] + " ");//vypsani vytvorene matice
                 }
@@ -34,7 +36,7 @@ namespace Maticové_funkce
 
             while (true) //Vyber operace, kterou vyuzijeme na nasi maticovou funkci
             {
-                Console.WriteLine("Vyberte možnosti: (1) Switch, (2) NumMatrixMulti, (3) PlusMinus, (4) Transposition, (5) Ukončit");
+                Console.WriteLine("Vyberte možnosti: (1) Switch, (2) NumMatrixMulti, (3) PlusMinus, (4) Transposition, (5) PlusMinusMatrix, (6) Ukončit");
                 string funkce = Console.ReadLine();
 
                 switch (funkce)
@@ -52,12 +54,16 @@ namespace Maticové_funkce
                         Transposition(my2Darray);
                         break;
                     case "5":
+                        PlusMinusMatrix(my2Darray, my2Darray2);
+                        break;
+                    case "6":
                         Environment.Exit(0);
                         break;
                     default:
                         Console.WriteLine("Toto je neplatná hodnota");
                         break;
                 }
+                Console.Write("\n");
             }
         }
 
@@ -65,7 +71,7 @@ namespace Maticové_funkce
         {
             while (true)
             {
-                Console.WriteLine("Vyberte možnosti: (1) řádek, (2) sloupek, (3) hl.diagonala, (4) vd. diagonala, (5) Ukončit");
+                Console.WriteLine("Vyberte možnosti: (1) řádek, (2) sloupek, (3) hl.diagonala, (4) vd. diagonala,(5) Návrat do hl. menu, (6) Ukončit");
                 string funkce = Console.ReadLine();
 
                 switch (funkce)
@@ -83,12 +89,15 @@ namespace Maticové_funkce
                         secondarydiagonal(my2Darray); //vd diagonala
                         break;
                     case "5":
+                        return;
+                    case "6":
                         Environment.Exit(0); //konec
                         break;
                     default:
                         Console.WriteLine("Toto je neplatná hodnota"); //pripadna chyba a zopakovani vyberu, proto cyklus while
                         break;
                 }
+                Console.Write("\n");
             }
         }
 
@@ -267,7 +276,7 @@ namespace Maticové_funkce
         {
             while (true)
             {
-                Console.WriteLine("Vyberte možnosti: (1) přičíst, (2) odečíst, (3) Ukončit");
+                Console.WriteLine("Vyberte možnosti: (1) přičíst, (2) odečíst, (3) Návrat do hl. menu, (4) Ukončit");
                 string funkce = Console.ReadLine();
 
                 switch (funkce)
@@ -279,12 +288,15 @@ namespace Maticové_funkce
                         Minus(my2Darray);
                         break;
                     case "3":
+                        return;
+                    case "4":
                         Environment.Exit(0);
                         break;
                     default:
                         Console.WriteLine("Toto je neplatná hodnota");
                         break;
                 }
+                Console.Write("\n");
             }
         }
         public static void Plus(int[,] my2Darray) //rpicitani k matici 
@@ -352,6 +364,94 @@ namespace Maticové_funkce
                 Console.Write("\n");
             }
             Console.Write("\n");//vypis do konzole
+        }
+        public static void PlusMinusMatrix(int[,] my2Darray, int[,] my2Darray2)
+        {
+            while (true)
+            {
+                Console.WriteLine("Vyberte možnosti: (1) přičíst, (2) odečíst, (3) Návrat do hl. menu, (4) Ukončit");
+                Console.Write("\n");
+                Console.WriteLine("pokud proběhlo více kroků, tak pričítaná matice bude mít pořád základní rozměry, protože neprochází kompletní změnou v průbehu kódu");
+                Console.Write("\n");
+                string funkce = Console.ReadLine();
+
+                switch (funkce)
+                {
+                    case "1":
+                        PlusMatrix(my2Darray, my2Darray2);
+                        break;
+                    case "2":
+                        MinusMatrix(my2Darray, my2Darray2);
+                        break;
+                    case "3":
+                        return;
+                    case "4":
+                        Environment.Exit(0);
+                        break;
+                    default:
+                        Console.WriteLine("Toto je neplatná hodnota");
+                        break;
+                }
+                Console.Write("\n");
+            }
+        }
+        public static void PlusMatrix(int[,] my2Darray, int[,] my2Darray2)
+        {
+            if (my2Darray.GetLength(0) != my2Darray2.GetLength(0) || my2Darray.GetLength(1) != my2Darray2.GetLength(1)) // porovnani obou matic, jestli jsou stejne velke
+            {
+                Console.WriteLine("Nelze sečíst matice různých rozměrů.");
+                return;
+            }
+
+            int[,] resultArray = new int[my2Darray.GetLength(0), my2Darray.GetLength(1)]; 
+
+            for (int i = 0; i < my2Darray.GetLength(0); i++)
+            {
+                for (int j = 0; j < my2Darray.GetLength(1); j++)
+                {
+                    resultArray[i, j] = my2Darray[i, j] + my2Darray2[i, j]; //secteni obou matic, pokud probehlo vic kroku, tak pricitana matice bude mit porad zakladni rozmery, protoze neprochoazi kompletni zmenou v prubehu kodu 
+                }
+            }
+
+            Console.WriteLine("Výsledná matice po sčítání:"); //vysledne vypsani
+            for (int i = 0; i < resultArray.GetLength(0); i++)
+            {
+                for (int j = 0; j < resultArray.GetLength(1); j++)
+                {
+                    Console.Write(resultArray[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+        public static void MinusMatrix(int[,] my2Darray, int[,] my2Darray2)
+        {
+            if (my2Darray.GetLength(0) != my2Darray2.GetLength(0) || my2Darray.GetLength(1) != my2Darray2.GetLength(1)) //porovnani obou matic, jestli jsou stejne velke
+            {
+                Console.WriteLine("Nelze sečíst matice různých rozměrů.");
+                return;
+            }
+
+            int[,] resultArray = new int[my2Darray.GetLength(0), my2Darray.GetLength(1)];
+
+            for (int i = 0; i < my2Darray.GetLength(0); i++)
+            {
+                for (int j = 0; j < my2Darray.GetLength(1); j++)
+                {
+                    resultArray[i, j] = my2Darray[i, j] - my2Darray2[i, j]; //odecteni obou matic, pokud probehlo vic kroku, tak odecitana matice bude mit porad zakladni rozmery, protoze neprochoazi kompletni zmenou v prubehu kodu 
+                }
+            }
+
+            Console.WriteLine("Výsledná matice po sčítání:"); //vypsani
+            for (int i = 0; i < resultArray.GetLength(0); i++)
+            {
+                for (int j = 0; j < resultArray.GetLength(1); j++)
+                {
+                    Console.Write(resultArray[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
         }
     }
 }
