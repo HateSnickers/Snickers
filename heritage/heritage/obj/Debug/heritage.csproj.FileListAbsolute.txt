@@ -1,0 +1,7 @@
+U:\PRG\Snickers\heritage\heritage\bin\Debug\heritage.exe.config
+U:\PRG\Snickers\heritage\heritage\bin\Debug\heritage.exe
+U:\PRG\Snickers\heritage\heritage\bin\Debug\heritage.pdb
+U:\PRG\Snickers\heritage\heritage\obj\Debug\heritage.csproj.AssemblyReference.cache
+U:\PRG\Snickers\heritage\heritage\obj\Debug\heritage.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\heritage\heritage\obj\Debug\heritage.exe
+U:\PRG\Snickers\heritage\heritage\obj\Debug\heritage.pdb

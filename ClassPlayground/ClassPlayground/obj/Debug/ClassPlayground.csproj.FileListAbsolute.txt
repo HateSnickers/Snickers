@@ -1,0 +1,7 @@
+U:\PRG\Snickers\ClassPlayground\ClassPlayground\bin\Debug\ClassPlayground.exe.config
+U:\PRG\Snickers\ClassPlayground\ClassPlayground\bin\Debug\ClassPlayground.exe
+U:\PRG\Snickers\ClassPlayground\ClassPlayground\bin\Debug\ClassPlayground.pdb
+U:\PRG\Snickers\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.csproj.AssemblyReference.cache
+U:\PRG\Snickers\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.csproj.CoreCompileInputs.cache
+U:\PRG\Snickers\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.exe
+U:\PRG\Snickers\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.pdb
